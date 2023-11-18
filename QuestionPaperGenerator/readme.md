@@ -1,4 +1,4 @@
-markdown
+
 # Question Paper Generator
 
 This Node.js application generates a question paper based on a set of sample questions stored in a Question Store. The generated question paper adheres to specified difficulty distribution and total marks.
@@ -16,7 +16,7 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/QuestionPaperGenerator.git
+   git clone https://github.com/divyanshu2003singh/Reelo_backend_Assignment.git
 Navigate to the project folder:
 
 bash
