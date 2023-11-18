@@ -17,6 +17,11 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
 
    ```bash
    git clone https://github.com/divyanshu2003singh/Reelo_backend_Assignment.git
+   
+or
+
+directly download the zip file of the assignent
+
 Navigate to the project folder:
 
 copy this these commands in your terminal step by step:
