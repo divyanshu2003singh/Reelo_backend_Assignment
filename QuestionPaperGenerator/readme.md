@@ -19,20 +19,18 @@ Make sure you have Node.js and npm installed on your machine. If not, you can do
    git clone https://github.com/divyanshu2003singh/Reelo_backend_Assignment.git
 Navigate to the project folder:
 
-bash
+copy this these commands in your terminal step by step:
 
 cd QuestionPaperGenerator
-Install dependencies:
 
-bash
+To Install dependencies:
 
 npm install
-Usage
-Start the server:
 
-bash
+To start the server:
 
 node app.js
+
 The server will run on http://localhost:3000.
 
 Use a tool like Postman to send a POST request to generate a question paper. Example payload:
